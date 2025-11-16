@@ -2,6 +2,7 @@
 
 This repository contains the comprehensive 30-page project report for the digital marketing strategy I executed for **OurERP** (`ourerp.ourerp.org`).
 
+view above full Project Pdf.
 
 ##  Project Overview
 
