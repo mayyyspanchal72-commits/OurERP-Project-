@@ -3,7 +3,7 @@
 This repository contains the comprehensive 30-page project report for the digital marketing strategy I executed for **OurERP** (`ourerp.ourerp.org`).
 
 
-## 📁 Project Overview
+##  Project Overview
 
 A detailed breakdown of the multi-channel digital marketing project for OurERP, a B2B ERP solutions provider.
 
